@@ -1,0 +1,94 @@
+team,city,league,playoffs,salary,wins,losses
+Astros,Houston,MLB,1,168804925,107,55
+Dodgers,Los Angeles,MLB,1,207000814,106,56
+Yankees,New York,MLB,1,223019037,103,59
+Twins,Minnesota,MLB,1,125256003,101,61
+Braves,Atlanta,MLB,1,143947963,97,65
+Athletics,Oakland,MLB,1,93394531,97,65
+Rays,Tampa Bay,MLB,1,64178722,96,66
+Nationals,Washington,MLB,1,172307808,93,69
+Indians,Cleveland,MLB,0,107693747,93,69
+Cardinals,St. Louis,MLB,1,174317164,91,71
+Brewers,Milwaukee,MLB,1,135889019,89,73
+Mets,New York,MLB,0,146835812,86,76
+Diamondbacks,Arizona,MLB,0,118927905,85,77
+Red Sox,Boston,MLB,0,229196106,84,78
+Cubs,Chicago,MLB,0,221590085,84,78
+Phillies,Philadelphia,MLB,0,159637244,81,81
+Rangers,Texas,MLB,0,148538766,78,84
+Giants,San Francisco,MLB,0,178582126,77,85
+Reds,Cincinnati,MLB,0,128391569,75,87
+White Sox,Chicago,MLB,0,91371201,72,89
+Angels,Los Angeles,MLB,0,160270385,72,90
+Rockies,Colorado,MLB,0,157162629,71,91
+Padres,San Diego,MLB,0,104254790,70,92
+Pirates,Pittsburgh,MLB,0,72731474,69,93
+Mariners,Seattle,MLB,0,144391293,68,94
+Blue Jays,Toronto,MLB,0,111371067,67,95
+Royals,Kansas City,MLB,0,104773003,59,103
+Marlins,Miami,MLB,0,75596271,57,105
+Orioles,Baltimore,MLB,0,73316689,54,108
+Tigers,Detroit,MLB,0,114631137,47,114
+Patriots,New England,NFL,1,194988547,12,4
+Bills,Buffalo,NFL,1,174804987,10,6
+Jets,New York,NFL,0,188464903,7,9
+Dolphins,Miami,NFL,0,175757955,5,11
+Ravens,Baltimore,NFL,1,190028527,14,2
+Steelers,Pittsburgh,NFL,0,206404929,8,8
+Browns,Cleveland,NFL,0,212753859,6,10
+Bengals,Cincinnati,NFL,0,184954951,2,14
+Texans,Houston,NFL,1,198106556,10,6
+Titans,Tennessee,NFL,1,197086185,9,7
+Colts,Indianapolis,NFL,0,196100572,7,9
+Jaguars,Jacksonville,NFL,0,190540169,6,10
+Chiefs,Kansas City,NFL,1,166507002,12,4
+Broncos,Denver,NFL,0,182229585,7,9
+Raiders,Oakland,NFL,0,173145802,7,9
+Chargers,Los Angeles,NFL,0,184097522,5,11
+Eagles,Philadelphia,NFL,1,170362399,9,7
+Cowboys,Dallas,NFL,0,182367508,8,8
+Giants,New York,NFL,0,194612924,4,12
+Redskins,Washington,NFL,0,180627946,3,13
+Packers,Green Bay,NFL,1,191756597,13,3
+Vikings,Minnesota,NFL,1,191016955,10,6
+Bears,Chicago,NFL,0,182861976,8,8
+Lions,Detroit,NFL,0,176627499,3.5,12.5
+Saints,New Orleans,NFL,1,187888357,13,3
+Falcons,Atlanta,NFL,0,184246919,7,9
+Buccaneers,Tampa Bay,NFL,0,184939978,7,9
+Panthers,Carolina,NFL,0,183306165,5,11
+49ers,San Francisco,NFL,1,220650341,13,3
+Seahawks,Seattle,NFL,1,184894364,11,5
+Rams,Los Angeles,NFL,0,180977365,9,7
+Cardinals,Arizona,NFL,0,192019927,5.5,10.5
+Bucks,Milwaukee,NBA,1,130988604,60,22
+Raptors,Toronto,NBA,1,137793831,58,24
+76ers,Philadelphia,NBA,1,115127167,51,31
+Celtics,Boston,NBA,1,125334993,49,33
+Pacers,Indiana,NBA,1,110724804,48,34
+Nets,Brooklyn,NBA,1,118850600,42,40
+Magic,Orlando,NBA,1,114394213,42,40
+Pistons,Detroit,NBA,1,126557932,41,41
+Hornets,Charlotte,NBA,0,121427859,39,43
+Heat,Miami,NBA,0,153171497,39,43
+Wizards,Washington,NBA,0,123747588,32,50
+Hawks,Atlanta,NBA,0,79180081,29,53
+Bulls,Chicago,NBA,0,112598201,22,60
+Cavaliers,Cleveland,NBA,0,123255073,19,63
+Knicks,New York,NBA,0,123387454,17,65
+Warriors,Golden State,NBA,1,146291276,57,25
+Nuggets,Denver,NBA,1,118327016,54,28
+Trail Blazers,Portland,NBA,1,130256600,53,29
+Rockets,Houston,NBA,1,126474100,53,29
+Jazz,Utah,NBA,1,113826156,50,32
+Thunder,Oklahoma City,NBA,1,144916427,49,33
+Spurs,San Antonio,NBA,1,121588790,48,34
+Clippers,Los Angeles,NBA,1,118026816,48,34
+Kings,Sacramento,NBA,0,101466920,39,43
+Lakers,Los Angeles,NBA,0,107225482,37,45
+Timberwolves,Minnesota,NBA,0,121962221,36,46
+Grizzlies,Memphis,NBA,0,125188633,33,49
+Pelicans,New Orleans,NBA,0,116052756,33,49
+Mavericks,Dallas,NBA,0,86958881,33,49
+Suns,Phoenix,NBA,0,108692835,19,63
+
